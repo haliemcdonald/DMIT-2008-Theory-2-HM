@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Gianmarco Cavallo - Freelance front-end Developer",
-    "description": "I'm a developer based in Italy, passionate about user experience and specializing in engaging animations and micro-interactions. My primary tools of choice include: JavaScript, React, Solid.js, Astro, Svelte, and Node.js.",
+    "title": "Halie McDonald - UI/UX Designer",
+    "description": "I'm UI/UX designer, with a passion for creating intuitive and engaging digital experiences. I work with tools like Figma and modern web technologies including HTML, CSS, JavaScript, and React.",
     "footer": {
       "year": "2026",
       "prefix": "Built on",
@@ -11,34 +11,34 @@
     }
   },
   "seo": {
-    "personName": "Gianmarco",
-    "jobTitle": "Freelance Frontend Developer",
+    "personName": "Halie",
+    "jobTitle": "UI/UX Designer",
     "worksFor": "Self-Employed",
-    "location": "Italy",
-    "countryCode": "IT",
-    "nationality": "Italy",
-    "publisherName": "Gianmarco",
+    "location": "Canada",
+    "countryCode": "CA",
+    "nationality": "Canadian",
+    "publisherName": "Halie",
     "sameAs": [
-      "https://www.linkedin.com/in/gianmarco-cavallo/",
-      "https://github.com/Ladvace"
+      "https://www.linkedin.com/in/halie-mcdonald",
+      "https://github.com/haliemcdonald"
     ]
   },
   "intro": {
     "welcomeLabel": "welcome",
-    "name": "Gianmarco Cavallo",
+    "name": "Halie McDonald",
     "summary": "a software developer with strong focus on the user experience, animations and micro interactions",
     "socialButtons": [
       {
         "ariaLabel": "github profile",
         "screenReaderLabel": "GitHub Profile",
         "icon": "ri:github-fill",
-        "url": "https://github.com/Ladvace"
+        "url": "https://github.com/haliemcdonald"
       },
       {
         "ariaLabel": "linkedin profile",
         "screenReaderLabel": "Linkedin Profile",
         "icon": "ri:linkedin-box-fill",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
+        "url": "https://www.linkedin.com/in/halie-mcdonald"
       },
       {
         "ariaLabel": "dribble profile",
@@ -53,7 +53,7 @@
       "imageAlt": "Buy Me a Coffee at ko-fi.com"
     },
     "image": {
-      "src": "/me.webp",
+      "src": "/me.png",
       "alt": "memoji of gianmarco"
     }
   },

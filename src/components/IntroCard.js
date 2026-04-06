@@ -58,7 +58,7 @@ export default function IntroCard({ intro }) {
             </div>
             <Image
                 alt={image.alt}
-                className="w-auto h-[240px] md:h-[300px] lg:h-[300px] md:self-end select-none absolute right-[-110px] bottom-0 z-[-1] opacity-50 md:opacity-100 md:relative md:right-auto md:bottom-auto md:z-auto pointer-events-none"
+                className="w-auto h-[340px] md:h-[450px] lg:h-[450px] md:self-end select-none absolute right-[-110px] bottom-0 z-[-1] opacity-50 md:opacity-100 md:relative md:right-auto md:bottom-auto md:z-auto pointer-events-none"
                 height={300}
                 src={image.src}
                 width={300}

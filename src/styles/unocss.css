@@ -32,7 +32,7 @@
 .after\:block::after{display:block;}
 .inline-block{display:inline-block;}
 .hidden{display:none;}
-.h-\[240px\]{height:240px;}
+.h-\[340px\]{height:340px;}
 .h-3{height:0.75rem;}
 .h-6{height:1.5rem;}
 .h-full{height:100%;}
@@ -192,7 +192,7 @@
 .md\:row-span-5{grid-row:span 5/span 5;}
 .md\:row-span-6{grid-row:span 6/span 6;}
 .md\:grid-cols-\[1fr_1fr_0\.9fr\]{grid-template-columns:1fr 1fr 0.9fr;}
-.md\:h-\[300px\]{height:300px;}
+.md\:h-\[450px\]{height:450px;}
 .md\:max-h-\[300px\]{max-height:300px;}
 .md\:min-h-\[360px\]{min-height:360px;}
 .md\:self-end{align-self:flex-end;}
@@ -206,7 +206,7 @@
 .lg\:col-span-1{grid-column:span 1/span 1;}
 .lg\:row-span-5{grid-row:span 5/span 5;}
 .lg\:grid-cols-4{grid-template-columns:repeat(4,minmax(0,1fr));}
-.lg\:h-\[300px\]{height:300px;}
+.lg\:h-\[450px\]{height:450px;}
 .lg\:min-h-\[380px\]{min-height:380px;}
 .lg\:gap-4{gap:1rem;}
 }
