@@ -1,8 +1,9 @@
 # Theory 2
 
 > Student Name: **Halie McDonald**
+> Github Username: **haliemcdonald**
 
-![Website Screenshot](./docs/images/screenshot.png)
+![Website Screenshot](./docs/images/deployed-site.png)
 
 In this assignment, you will demonstrate your ability to
 
